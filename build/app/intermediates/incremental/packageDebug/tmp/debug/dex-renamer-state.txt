@@ -1,4 +1,0 @@
-#Mon May 29 11:22:34 EET 2023
-base.0=/home/dahi/FlutterProject/shop_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
