@@ -1,10 +1,21 @@
 # shop_application
 
-A new Flutter project.
+A new E-commerce mobile application named "Fake Store"
+this store depend on fake API to fetch data from it .
 
-## Getting Started
+we apply some features on Fake Store application Like :
 
-This project is a starting point for a Flutter application.
+-Display all products with (sort, search, filter, limit).
+-Create product with image using(camera,gallery) from my account.
+-Ability to edit & delete a product.
+-Open a single product on a single page.
+-Display my cart.
+-Add to cart.
+-Ability to edit & delete my cart.
+-Get single user(profile).
+-little animation on auth. screen and overshow product .
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
