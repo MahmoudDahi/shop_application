@@ -6,14 +6,25 @@ this store depend on fake API to fetch data from it .
 we apply some features on Fake Store application Like :
 
 -Display all products with (sort, search, filter, limit).
+
 -Create product with image using(camera,gallery) from my account.
+
 -Ability to edit & delete a product.
+
 -Open a single product on a single page.
+
 -Display my cart.
+
 -Add to cart.
+
 -Ability to edit & delete my cart.
+
 -Get single user(profile).
+
 -little animation on auth. screen and overshow product .
+
+
+
 
 
 
